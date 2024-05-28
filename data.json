@@ -1,12 +1,167 @@
 [
   {
-    "code": "None",
-    "name": "Autostradale",
-    "logo": "https://images.kiwi.com/airlines/64/AUTOSTRAD.png"
+    "name": "Air France",
+    "code": "AF",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/AF.png"
   },
   {
-    "code": "None",
-    "name": "East Midlands Trains",
-    "logo": "https://images.kiwi.com/airlines/64/EASTMIDLAN.png"
+    "name": "IndiGo",
+    "code": "6E",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/6E.png"
+  },
+  {
+    "name": "Air Algérie",
+    "code": "AH",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/AH.png"
+  },
+  {
+    "name": "Air Inter",
+    "code": "ID",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/ID.png"
+  },
+  {
+    "name": "Air Gabon",
+    "code": "GN",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/GN.png"
+  },
+  {
+    "name": "Aerocondor",
+    "code": "2B",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/2B.png"
+  },
+  {
+    "name": "KLM Cityhopper",
+    "code": "WA",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/WA.png"
+  },
+  {
+    "name": "LanChile",
+    "code": "LA",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/LA.png"
+  },
+  {
+    "name": "Leeward Islands Air Transport",
+    "code": "LI",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/LI.png"
+  },
+  {
+    "name": "Lufthansa Cargo",
+    "code": "LH",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/LH.png"
+  },
+  {
+    "name": "Luxair",
+    "code": "LG",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/LG.png"
+  },
+  {
+    "name": "Merpati Nusantara Airlines",
+    "code": "MZ",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/MZ.png"
+  },
+  {
+    "name": "Malév Hungarian Airlines",
+    "code": "MA",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/MA.png"
+  },
+  {
+    "name": "Olympic Airways",
+    "code": "OA",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/OA.png"
+  },
+  {
+    "name": "Polynesian Airlines",
+    "code": "PH",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/PH.png"
+  },
+  {
+    "name": "Sabena",
+    "code": "SN",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/SN.png"
+  },
+  {
+    "name": "Transbrazil",
+    "code": "TH",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/TH.png"
+  },
+  {
+    "name": "Air UK",
+    "code": "UK",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/UK.png"
+  },
+  {
+    "name": "Ukraine International Airlines",
+    "code": "PS",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/PS.png"
+  },
+  {
+    "name": "VLM Airlines",
+    "code": "VG",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/VG.png"
+  },
+  {
+    "name": "West Coast Air",
+    "code": "8O",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/8O.png"
+  },
+  {
+    "name": "Xiamen Airlines",
+    "code": "MF",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/MF.png"
+  },
+  {
+    "name": "Yemenia",
+    "code": "IY",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/IY.png"
+  },
+  {
+    "name": "Air Jamaica",
+    "code": "JM",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/JM.png"
+  },
+  {
+    "name": "Air Malta",
+    "code": "KM",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/KM.png"
+  },
+  {
+    "name": "AeroMéxico",
+    "code": "AM",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/AM.png"
+  },
+  {
+    "name": "American Airlines",
+    "code": "AA",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/AA.png"
+  },
+  {
+    "name": "Aloha Airlines",
+    "code": "AQ",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/AQ.png"
+  },
+  {
+    "name": "Aerolíneas Argentinas",
+    "code": "AR",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/AR.png"
+  },
+  {
+    "name": "Aeropostal Alas de Venezuela",
+    "code": "VH",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/VH.png"
+  },
+  {
+    "name": "Air Canada",
+    "code": "AC",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/AC.png"
+  },
+  {
+    "name": "All Nippon Airways",
+    "code": "NH",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/NH.png"
+  },
+  {
+    "name": "Austrian Airlines",
+    "code": "OS",
+    "logo": "https://gopalkrushnas063.github.io/airlines/Square/OS.png"
   }
 ]
