@@ -1,10 +1,5 @@
 [
     {
-        "name": "Example Airline",
-        "code": "EX",
-        "logo": "https://hh-website-assets.s3.ap-south-1.amazonaws.com/airlines/logos/EX.png"
-    },
-    {
         "name": "Austral Lineas Aereas",
         "code": "AU",
         "logo": "https://hh-website-assets.s3.ap-south-1.amazonaws.com/airlines/logos/AU.png"
